@@ -1,7 +1,7 @@
 # 👨‍💻 Muhammad Asad | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Muhammad+Asad;Full-Stack+Web+Developer;PPassionate+About+Clean+Code;Building+Amazing+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Muhammad+Asad;Full-Stack+Web+Developer;Eager+About+Clean+Code;Building+Amazing+Web+Apps" alt="Typing SVG" />
 </div>
 
 ---
